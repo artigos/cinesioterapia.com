@@ -1,3 +1,6 @@
 permalink: /cinesioterapia-:title.htm
 post_dirs: false
 relative_permalinks: true
+markdown: kramdown
+gems:
+  - jekyll-sitemap
