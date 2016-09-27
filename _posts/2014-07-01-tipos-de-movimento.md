@@ -3,7 +3,7 @@ layout: default
 title: Tipos de Movimento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O movimento ativo que aciona o sistema artromuscular é dependente da contração muscular. Existem diferentes tipos de contrações musculares, que são classificadas em função do estimulo de origem como: mobilidade reflexa, mobilidade voluntária e mobilidade automática.
 

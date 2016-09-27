@@ -3,11 +3,11 @@ layout: default
 title: Outras técnicas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Por muito tempo, e principalmente em tratamento do aparelho locomotor, cada técnica tinha seu lugar bem determinado na sessão terapêutica.
 
-#O tratamento
+# O tratamento
 
 Geralmente o tratamento era iniciado com a massagem; o paciente,colocado em uma posição de conforto, experimentava manobras antálgicas ou de flexibilização. Em seguida, era a vez das mobilizações passivas, e finalmente o paciente realizava os exercícios da rubrica ativa.
 

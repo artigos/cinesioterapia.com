@@ -3,17 +3,17 @@ layout: default
 title: Cinesiologia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Definição
+## Definição
 
 Cinesiologia significa "estudo do movimento". Descreve também uma terapia complementar ou alternativa que utiliza a monitorização dos músculos (biofeedback) para observar possíveis causas de ‘desequilíbrios’ no corpo. Os cinesiologistas podem resolver questões de saúde e bem estar, incluindo o stress, distúrbios musculares, distúrbios nervosos, questões nutricionais, problemas emocionais, assim como dificuldades comportamentais e de aprendizagem. A cinesiologia centra-se nas ‘reações de stress não resolvidas’ e utiliza técnicas de modo a ajudar o processo natural de cura do corpo.
 
-##História
+## História
 
 A cinesiologia decorre da quiroprática e cinesiologia aplicada. É também baseada na antiga teoria da energia chi da antiga acupunctura chinesa. Ao contrário da cinesiologia aplicada, na qual a força dos músculos é testada, as formas de cinesiologia desenvolvidas recentemente utilizam a monitorização dos músculos como forma de biofeedback do sujeito.
 
-##Descrição
+## Descrição
 
 O sistema nervoso humano existe de modo a se autorregular e adaptar à mudança. Quando não conseguimos adaptar de modo eficiente, os músculos irão refletir o stress no sistema central nervoso.
 
@@ -21,7 +21,7 @@ Este stress provoca padrões específicos musculares que os cinesiologistas pode
 
 A monitorização dos músculos poderá indicar uma grande variedade de causa possíveis de desequilíbrios no bem estar geral de uma pessoa.
 
-##Questões de saúde
+## Questões de saúde
 
 A terapia cinesiológica pretende estimular a energia do corpo de modo a libertar potencial inexplorado. A cinesiologia utiliza uma abordagem de várias etapas como tratamento. Os praticantes procuram os desequilíbrios subtis mas inúmeros que se possam esconder por trás de problemas físicos, mentais e emocionais. Os cinesiologistas poderão ajudar a tratar uma série de problemas de saúde, incluindo:
 
@@ -32,7 +32,7 @@ A terapia cinesiológica pretende estimular a energia do corpo de modo a liberta
 * Problemas emocionais
 * Dificuldades no comportamento e na aprendizagem.
 
-##Procedimentos
+## Procedimentos
 
 Um praticante de cinesiologia começa por gravar a história relevante de uma pessoa (confidencialmente). A sessão tem inicio com a pessoa vestida e deitada confortavelmente, de barriga para cima, numa mesa de massagem. Cada sessão poderá incluir vários testes ou desafios executados em vários momentos dependendo da natureza do problema da pessoa.
 
@@ -40,7 +40,7 @@ Desafio físico – o praticante testa a integridade neuromuscular (biofeedback)
 
 Desafio mental – o paciente pensa em determinadas coisas ou concentra-se nos seus sentimentos enquanto o praticante efetua um teste muscular específico. O teste poderá indicar um desequilíbrio energético ou stress que requer atenção.  O cliente vê e experiencia em primeira mão todas as mudanças que forem efetuadas, especialmente quando confirmadas através do processo de monitorização muscular.
 
-##Técnicas
+## Técnicas
 
 Algumas das técnicas disponíveis são:
 

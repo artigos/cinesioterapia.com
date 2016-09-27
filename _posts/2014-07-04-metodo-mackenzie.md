@@ -3,7 +3,7 @@ layout: default
 title: Método Mackenzie
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Robin Mackenzie, fisioterapeuta, desenvolveu um sistema de diagnóstico baseado nos mecanismos de produção da dor. Seu método é composto de movimentos repetidos em amplitude máxima, posições sustentadas e mobilizações. Enfoca a hérnia discal posterior, ao contrário de Paul Williams, fortalece os extensores para voltar à posição normal.
 Ele identificou 3 síndromes mecânicas : postural, disfunção e degeneração.
@@ -12,7 +12,7 @@ Ele identificou 3 síndromes mecânicas : postural, disfunção e degeneração.
 2. Síndrome da disfunção - perda do movimento em certa direção, com dor intermitente, antes de completar o arco de movimento;
 3. Síndrome da degeneração - distúrbio na posição de repouso de 2 vértebras, inclusive do disco, provocando dor constante e perda parcial de movimento.
 
-##Os exercícios
+## Os exercícios
 
 1. Paciente em decúbito ventral, braços abduzidos e fletidos, testa encostada no chão, na inspiração fazer uma hiperextensão da cabeça e volta. Para promover o alongamento, sustente o movimento.
 
